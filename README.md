@@ -11,7 +11,7 @@ The original article is here:
 <TODO>
 
 You can find links to all of my articles here:
-https://medium.com/@RevJSMonkey
+https://medium.com/@dupski
 
 ## Usage
 
